@@ -1,5 +1,5 @@
 
-AI实践课程介绍 (Practice of AI)
+AI入门介绍 
 
 	Trainer：谢文伟 (Jim Xie)
 
